@@ -1,0 +1,13 @@
+# A braid within the Newton set
+# You'll need to implement this formula yourself so your program can produce this image
+type: newton
+pixels: 1368
+
+# minReal:-0.553253012048192 maxReal:-0.24289156626506
+# minImag:0.0794343935226438 maxImag:0.312205477859993
+
+axisLength: 0.232
+centerX: -0.398
+iterations: 200
+
+centerY: 0.195

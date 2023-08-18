@@ -1,0 +1,36 @@
+[============]
+[Final Report]
+[============]
+
+Statistics over all industries in 2021:
+=========================================================
+Number of FIPS areas in report       56
+
+Total annual wages                   $33,217,958,335
+Area with maximum annual wages       Kanawha County, West Virginia
+Maximum reported wage                $4,934,493,735
+
+Total number of establishments       53,546
+Area with most establishments        Unknown Or Undefined, West Virginia
+Maximum # of establishments          8,370
+
+Total annual employment level        657,805
+Area with maximum employment         Kanawha County, West Virginia
+Maximum reported employment level    91,450
+
+
+Statistics over the software publishing industry in 2021:
+=========================================================
+Number of FIPS areas in report       15
+
+Total annual wages                   $8,889,753
+Area with maximum annual wages       Unknown Or Undefined, West Virginia
+Maximum reported wage                $7,976,964
+
+Total number of establishments       104
+Area with most establishments        Unknown Or Undefined, West Virginia
+Maximum # of establishments          74
+
+Total annual employment level        85
+Area with maximum employment         Unknown Or Undefined, West Virginia
+Maximum reported employment level    65

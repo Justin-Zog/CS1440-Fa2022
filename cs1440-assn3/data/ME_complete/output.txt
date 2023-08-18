@@ -1,0 +1,36 @@
+[============]
+[Final Report]
+[============]
+
+Statistics over all industries in 2021:
+=========================================================
+Number of FIPS areas in report       17
+
+Total annual wages                   $33,343,143,368
+Area with maximum annual wages       Cumberland County, Maine
+Maximum reported wage                $11,542,998,173
+
+Total number of establishments       58,118
+Area with most establishments        Cumberland County, Maine
+Maximum # of establishments          15,769
+
+Total annual employment level        610,109
+Area with maximum employment         Cumberland County, Maine
+Maximum reported employment level    181,471
+
+
+Statistics over the software publishing industry in 2021:
+=========================================================
+Number of FIPS areas in report       14
+
+Total annual wages                   $74,366,420
+Area with maximum annual wages       Cumberland County, Maine
+Maximum reported wage                $32,670,542
+
+Total number of establishments       267
+Area with most establishments        Cumberland County, Maine
+Maximum # of establishments          105
+
+Total annual employment level        498
+Area with maximum employment         Cumberland County, Maine
+Maximum reported employment level    249

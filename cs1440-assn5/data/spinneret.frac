@@ -1,0 +1,8 @@
+# The Spider's spinneret
+# You'll need to implement this formula yourself so your program can produce this image
+type: spider
+pixels: 640
+iterations: 245
+centerX: -1.956
+centerY: 0.0
+axisLength: 0.1

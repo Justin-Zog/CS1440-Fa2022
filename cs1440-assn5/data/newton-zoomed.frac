@@ -1,0 +1,8 @@
+# Newton set, zoomed in to the center
+# You'll need to implement this formula yourself so your program can produce this image
+type: newton
+pixels: 640
+centerx: 0.0
+centery: 0.0
+axislength: 0.01
+iterations: 100

@@ -1,0 +1,12 @@
+# Burning Ship fractal zoomed in to very back
+# You'll need to implement this formula yourself so your program can produce this image
+type: burningship
+creal: -0.408
+cimag: 1.9325
+centerx: -0.85
+centery: 1.40
+axislength: 0.7
+pixels: 768
+iterations: 144
+
+# autocmd BufWritePost <buffer> silent !python3 ../sln/main.py -c %

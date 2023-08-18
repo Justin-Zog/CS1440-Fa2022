@@ -1,0 +1,36 @@
+[============]
+[Final Report]
+[============]
+
+Statistics over all industries in 2021:
+=========================================================
+Number of FIPS areas in report       89
+
+Total annual wages                   $306,154,392,599
+Area with maximum annual wages       Franklin County, Ohio
+Maximum reported wage                $48,628,531,917
+
+Total number of establishments       315,117
+Area with most establishments        Cuyahoga County, Ohio
+Maximum # of establishments          37,749
+
+Total annual employment level        5,246,892
+Area with maximum employment         Franklin County, Ohio
+Maximum reported employment level    743,438
+
+
+Statistics over the software publishing industry in 2021:
+=========================================================
+Number of FIPS areas in report       0
+
+Total annual wages                   $0
+Area with maximum annual wages       
+Maximum reported wage                $0
+
+Total number of establishments       0
+Area with most establishments        
+Maximum # of establishments          0
+
+Total annual employment level        0
+Area with maximum employment         
+Maximum reported employment level    0
